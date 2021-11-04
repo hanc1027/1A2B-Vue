@@ -20,10 +20,10 @@ npm run build
 
 ## Screenshot
 - Home
-<br><img src="assets/01.png" width="200">
+<br><img src="assets/01.png" width="500">
 
 - Computer mode
-<br><img src="assets/02.png" width="200"><br>
-<img src="assets/03.png" width="200"><br>
-<img src="assets/04.png" width="200"><br>
-<img src="assets/05.png" width="200"><br>
+<br><img src="assets/02.png" width="500"><br>
+<img src="assets/03.png" width="500"><br>
+<img src="assets/04.png" width="500"><br>
+<img src="assets/05.png" width="500"><br>
